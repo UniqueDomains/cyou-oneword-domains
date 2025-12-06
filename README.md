@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CYOU one-word domains still available to buy.
 
-This dataset contains 4,618 .CYOU one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,622 .CYOU one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CYOU one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cyou-oneword-domains&utm_content=description.top) (4,620) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.CYOU one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.cyou        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.cyou      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.cyou        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.cyou      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.cyou  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.cyou      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.cyou  | available | 58       | 7%     | 9      |           |         |         |
