@@ -1,22 +1,22 @@
-# Available .CYOU One-Word Domains (9,525)
+# Available .CYOU One-Word Domains (11,871)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C526%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C525%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C871%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .cyou one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .cyou one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,871 domains** on the canonical page below.
 
-**Public extract:** 9,526 rows · **Live catalog:** 9,525 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,871 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/cyou`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CYOU one-word domain 
 
 ### Files
 
-- `cyou.csv` — public CSV extract (9,526 rows)
-- `cyou.json` — public JSON extract (9,526 rows)
+- `cyou.csv` — public CSV extract (1,000 rows)
+- `cyou.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| conscious.cyou  | available | $19.48    | —             | 89             | 38     | 9      | namecheap                                    |
-| germany.cyou    | resell    | —         | —             | 70             | 98     | 7      | Namecheap                                    |
-| authentic.cyou  | premium   | $35.75    | $71.50        | 80             | 83     | 9      | namecheap                                    |
-| right.cyou      | available | $19.48    | —             | 82             | 32     | 5      | namecheap                                    |
-| fuck.cyou       | resell    | —         | —             | 124            | 70     | 4      | 101domain GRS Limited                        |
-| converse.cyou   | premium   | $430.95   | $574.60       | 64             | 73     | 8      | namecheap                                    |
-| adaptive.cyou   | available | $19.48    | —             | 76             | 32     | 8      | namecheap                                    |
-| prompt.cyou     | resell    | —         | —             | 114            | 68     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| nationwide.cyou | premium   | $53.63    | $71.50        | 76             | 66     | 10     | namecheap                                    |
-| advanced.cyou   | available | $19.48    | —             | 74             | 29     | 8      | namecheap                                    |
-| domain.cyou     | resell    | —         | —             | 80             | 64     | 6      | Porkbun, LLC                                 |
-| power.cyou      | premium   | $71.83    | $287.30       | 98             | 62     | 5      | namecheap                                    |
-| death.cyou      | available | $19.48    | —             | 62             | 28     | 5      | namecheap                                    |
-| pay.cyou        | resell    | —         | —             | 84             | 60     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| seventeen.cyou  | premium   | $53.63    | $71.50        | 84             | 62     | 9      | namecheap                                    |
-| curative.cyou   | available | $19.48    | —             | 92             | 27     | 8      | namecheap                                    |
-| music.cyou      | resell    | —         | —             | 84             | 54     | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
-| enterprise.cyou | premium   | $143.65   | $574.60       | 68             | 61     | 10     | namecheap                                    |
-| adept.cyou      | available | $19.48    | —             | 92             | 26     | 5      | namecheap                                    |
-| business.cyou   | resell    | —         | —             | 100            | 53     | 8      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| backyard.cyou      | available | $19.48    | —             | 80             | 27     | 9      | namecheap                          |
+| jobs.cyou          | resell    | —         | —             | 79             | 42     | 4      | Global Domains International, Inc. |
+| nets.cyou          | premium   | $19.60    | $39.20        | 54             | 81     | 4      | namecheap                          |
+| echoes.cyou        | available | $1.79     | $11.95        | 56             | 24     | 6      | namesilo                           |
+| tokens.cyou        | resell    | —         | —             | 51             | 36     | 6      | Dynadot LLC                        |
+| Chanel.cyou        | premium   | $309.40   | $618.80       | 80             | 77     | 6      | namecheap                          |
+| Mikey.cyou         | available | $19.48    | —             | 70             | 21     | 5      | namecheap                          |
+| texts.cyou         | resell    | —         | —             | 52             | 13     | 5      | Dynadot LLC                        |
+| insight.cyou       | premium   | $309.40   | $618.80       | 76             | 69     | 8      | namecheap                          |
+| distributed.cyou   | available | $19.48    | —             | 64             | 21     | 11     | namecheap                          |
+| donuts.cyou        | premium   | $154.70   | $309.40       | 54             | 62     | 6      | namecheap                          |
+| snaps.cyou         | available | $19.48    | —             | 52             | 20     | 5      | namecheap                          |
+| regions.cyou       | premium   | $154.70   | $309.40       | 64             | 59     | 7      | namecheap                          |
+| enlightenment.cyou | available | $19.48    | —             | 62             | 18     | 13     | namecheap                          |
+| agents.cyou        | premium   | $154.70   | $309.40       | 56             | 50     | 6      | namecheap                          |
+| goviral.cyou       | available | $19.48    | —             | 76             | 17     | 8      | namecheap                          |
+| Tools.cyou         | premium   | $154.70   | $309.40       | 56             | 40     | 5      | namecheap                          |
+| makes.cyou         | available | $19.48    | —             | 66             | 17     | 5      | namecheap                          |
+| WiFi.cyou          | premium   | $309.40   | $618.80       | 83             | 37     | 5      | namecheap                          |
+| worlds.cyou        | available | $19.48    | —             | 62             | 17     | 6      | namecheap                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,526-row public sample | 9,525 live domains                               |
+| 1,000-row public sample | 11,871 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
