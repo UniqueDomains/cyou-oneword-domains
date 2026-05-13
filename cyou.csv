@@ -405,7 +405,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 23f3deb6-b799-421f-92b1-b810a446a615,pictorials.cyou,available,1.79,11.95,56,2,10,namesilo,,
 23f47ded-1a64-4378-aae0-bb5dfcd74b88,runtheshow.cyou,available,19.48,,73,3,12,namecheap,,
 24060d13-67f9-424b-81ff-ad6d6487ca3c,SaintNicholas.cyou,available,19.48,,64,4,14,namecheap,,
-242d1d32-cf92-4c48-be9b-0ca4a79ea71b,organization.cyou,available,19.48,,77,16,12,namecheap,,
+242d1d32-cf92-4c48-be9b-0ca4a79ea71b,organization.cyou,premium,19.48,,77,16,12,namecheap,,
 243b9aab-5c0d-435f-8b44-b3e11afea5ed,oceans.cyou,premium,154.7,309.4,64,22,6,namecheap,,
 24426c86-87ce-4ef7-ac85-efc85d835c7c,eachway.cyou,available,19.48,,68,2,8,namecheap,,
 2452bb97-0d93-43a5-8702-d6fab5bb868f,howthedevil.cyou,available,19.48,,40,0,13,namecheap,,
