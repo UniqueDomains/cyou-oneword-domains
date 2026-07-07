@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .cyou one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,479 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,479 domains · **Median ask:** $47.10 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,479 domains · **Median ask:** $58.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cyou`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/cyou`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CYOU one-word domain 
 
 ### Files
 
-- `cyou.csv` — public CSV extract (1,000 rows)
-- `cyou.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cyou.csv`, public CSV extract (1,000 rows)
+- `cyou.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| finals.cyou   | available | $1.79     | $11.95        | 80             | 7      | 6      | namesilo                           |
-| dogsit.cyou   | available | $19.48    | —             | 96             | 2      | 6      | namecheap                          |
-| edamame.cyou  | available | $1.79     | $11.95        | 80             | 9      | 7      | namesilo                           |
-| toneup.cyou   | available | $19.48    | —             | 80             | 5      | 7      | namecheap                          |
-| hangon.cyou   | available | $19.48    | —             | 82             | 6      | 7      | namecheap                          |
-| pierogi.cyou  | available | $19.48    | —             | 82             | 7      | 7      | namecheap                          |
-| dogsick.cyou  | available | $19.48    | —             | 90             | 1      | 7      | namecheap                          |
-| headout.cyou  | available | $19.48    | —             | 82             | 6      | 8      | namecheap                          |
-| beawake.cyou  | available | $19.48    | —             | 84             | 3      | 8      | namecheap                          |
-| dogstail.cyou | available | $19.48    | —             | 94             | 1      | 8      | namecheap                          |
-| aloevera.cyou | available | $19.48    | —             | 80             | 10     | 9      | namecheap                          |
-| backyard.cyou | available | $19.48    | —             | 80             | 27     | 9      | namecheap                          |
-| bedframe.cyou | available | $19.48    | —             | 80             | 3      | 9      | namecheap                          |
-| jobs.cyou     | resell    | —         | —             | 79             | 42     | 4      | Global Domains International, Inc. |
-| nets.cyou     | premium   | $19.60    | $39.20        | 54             | 81     | 4      | namecheap                          |
-| echoes.cyou   | available | $1.79     | $11.95        | 56             | 24     | 6      | namesilo                           |
-| tokens.cyou   | resell    | —         | —             | 51             | 36     | 6      | Dynadot LLC                        |
-| insight.cyou  | premium   | $309.40   | $618.80       | 76             | 69     | 8      | namecheap                          |
-| Mikey.cyou    | available | $19.48    | —             | 70             | 21     | 5      | namecheap                          |
-| texts.cyou    | resell    | —         | —             | 52             | 13     | 5      | Dynadot LLC                        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| christmas.cyou | premium   | $282.88   | $565.76       | high           | low    | 9      | namesilo                                     |
+| sorry.cyou     | available | $1.79     | $11.95        | high           | low    | 5      | namesilo                                     |
+| abaft.cyou     | available | $19.48    | —             | medium         | low    | 5      | namecheap                                    |
+| pay.cyou       | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| ada.cyou       | premium   | $282.88   | $565.76       | medium         | medium | 3      | namesilo                                     |
+| annoy.cyou     | available | $1.79     | $14.95        | high           | low    | 5      | namesilo                                     |
+| help.cyou      | resell    | —         | —             | medium         | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| ago.cyou       | premium   | $107.25   | $143          | medium         | low    | 3      | namecheap                                    |
+| apart.cyou     | available | $19.48    | —             | high           | low    | 5      | namecheap                                    |
+| music.cyou     | resell    | —         | —             | high           | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| ask.cyou       | premium   | $65.45    | $140.80       | high           | medium | 3      | namesilo                                     |
+| aural.cyou     | available | $1.79     | $11.95        | medium         | low    | 5      | namesilo                                     |
+| business.cyou  | resell    | —         | —             | high           | medium | 8      | Xiamen ChinaSource Internet Service Co., Ltd |
+| Ava.cyou       | premium   | $282.88   | $565.76       | high           | medium | 3      | namesilo                                     |
+| baggy.cyou     | available | $1.79     | $11.95        | high           | low    | 5      | namesilo                                     |
+| developer.cyou | resell    | —         | —             | high           | low    | 9      | Dynadot LLC                                  |
+| bag.cyou       | premium   | $282.88   | $565.76       | high           | low    | 3      | namesilo                                     |
+| bared.cyou     | available | $1.79     | $11.95        | medium         | low    | 5      | namesilo                                     |
+| bob.cyou       | premium   | $282.88   | $565.76       | high           | medium | 3      | namesilo                                     |
+| below.cyou     | available | $19.48    | —             | medium         | low    | 5      | namecheap                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .cyou domains. The set includes short action phrases such as geton.cyou and useit.cyou, product-like words such as matcha.cyou and edamame.cyou, and more open-ended brandables like barup.cyou and toneup.cyou. With a median ask of $47.10, the pricing signal is low enough to support broad exploration, but the extension itself is outside the mainstream. When comparing these domains, focus on whether the word carries clean recall, whether the phrase reads naturally with “cyou,” and whether the name can justify any extension-related trust tradeoff for your use case or resale thesis.
+This list of .CYOU domain names focuses on one-word and short compound options like getup.cyou, playin.cyou, and stirup.cyou, alongside longer descriptive picks such as coffeewoman.cyou and makehappen.cyou. With 12,479 domains in this set and a median ask near $58.68, pricing stays low enough for early-stage projects while leaving room to compare spelling, length, and memorability before committing to a specific name.
 
-- All names in this selection use the .cyou extension
-- Median ask is $47.10 across 12,475 domains
-- Examples include finals.cyou, getup.cyou, matcha.cyou
-- Best picks read cleanly and stay easy to recall
+- 12,479 one-word .CYOU domains in this set
+- Median ask near $58.68 across the list
+- Mix of short, compound, and phrase-style names
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
