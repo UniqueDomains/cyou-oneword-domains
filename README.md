@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cyou one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,426 domains · **Median ask:** $49.25 · **High-demand under $2,500:** 67
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/cyou`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| christmas.cyou | premium   | $282.88   | $565.76       | high           | low    | 9      | namesilo                                     |
-| sorry.cyou     | available | $1.79     | $11.95        | high           | low    | 5      | namesilo                                     |
 | abaft.cyou     | available | $1.39     | $25.98        | low            | low    | 5      | namecheap                                    |
 | pay.cyou       | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | ada.cyou       | premium   | $282.88   | $565.76       | medium         | medium | 3      | namesilo                                     |
@@ -84,6 +82,8 @@ print(df.head())
 | apish.cyou     | available | $1.39     | $25.98        | low            | low    | 5      | namecheap                                    |
 | azo.cyou       | premium   | $192      | $384          | low            | low    | 3      | namesilo                                     |
 | areal.cyou     | available | $1.39     | $25.98        | low            | low    | 5      | namecheap                                    |
+| bag.cyou       | premium   | $282.88   | $565.76       | high           | low    | 3      | namesilo                                     |
+| attic.cyou     | available | $1.39     | $25.98        | low            | low    | 5      | namecheap                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
