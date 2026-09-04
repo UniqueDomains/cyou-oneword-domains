@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 2913a15b-3a53-4cda-8deb-b7e4a51b2352,whacky.cyou,available,1.39,25.98,low,low,6,namecheap,,
 f75e97ba-44cb-466a-86da-17290ccbd1a8,bareheaded.cyou,available,1.39,25.98,low,low,10,namecheap,,
-e3d505ac-4aab-47c1-93fa-dfa42f1905da,bread.cyou,premium,71.83,287.3,high,low,5,namecheap,,
+e3d505ac-4aab-47c1-93fa-dfa42f1905da,bread.cyou,premium,384,768,medium,low,5,namesilo,,
 681894d0-326c-4854-8559-a258511d55e8,beads.cyou,premium,282.88,565.76,high,low,5,namesilo,,
 31dc025f-7bec-4cbb-850a-a8803c102984,claire.cyou,premium,141.44,282.88,medium,low,6,namesilo,,
 952295a1-b896-434c-a00e-2f2f9e48f46b,anuretic.cyou,available,1.39,25.98,low,low,8,namecheap,,
