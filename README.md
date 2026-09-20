@@ -1,10 +1,10 @@
-# Available .CYOU One-Word Domains (27,824)
+# Available .CYOU One-Word Domains (28,472)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C824%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C472%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cyou one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,824 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,472 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,824 domains · **Median ask:** $45.33 · **High-demand under $2,500:** 77
+**Public extract:** 1,000 rows · **Live catalog:** 28,472 domains · **Median ask:** $45.73 · **High-demand under $2,500:** 76
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/cyou`
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | developer.cyou | resell    | —         | —             | high           | low    | 9      | Dynadot LLC                                  |
 | ask.cyou       | premium   | $65.45    | $140.80       | high           | medium | 3      | namesilo                                     |
 | apart.cyou     | available | $19.48    | —             | high           | low    | 5      | namecheap                                    |
-| Ava.cyou       | premium   | $282.88   | $565.76       | high           | medium | 3      | namesilo                                     |
+| ava.cyou       | premium   | $282.88   | $565.76       | high           | medium | 3      | namesilo                                     |
 | apish.cyou     | available | $1.39     | $25.98        | low            | low    | 5      | namecheap                                    |
 | azo.cyou       | premium   | $192      | $384          | low            | low    | 3      | namesilo                                     |
 | areal.cyou     | available | $1.39     | $25.98        | low            | low    | 5      | namecheap                                    |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,824 live domains                        |
+| 1,000-row public sample | 28,472 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 77 high-demand names under $2,500          |
+| Basic exported fields   | 76 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
