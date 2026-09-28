@@ -1,10 +1,10 @@
-# Available .CYOU One-Word Domains (23,947)
+# Available .CYOU One-Word Domains (24,421)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C947%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C421%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cyou one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,947 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,421 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,947 domains · **Median ask:** $89.61 · **High-demand under $2,500:** 126
+**Public extract:** 1,000 rows · **Live catalog:** 24,421 domains · **Median ask:** $91.96 · **High-demand under $2,500:** 131
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/cyou`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| abbot.cyou    | available | $1.99     | $19.49        | high           | low    | 5      | namesilo              |
+| abbot.cyou    | available | $1.99     | $19.49        | medium         | low    | 5      | namesilo              |
 | fuck.cyou     | resell    | —         | —             | high           | high   | 4      | 101domain GRS Limited |
 | abo.cyou      | premium   | $68.43    | $147.20       | high           | low    | 3      | namesilo              |
-| acned.cyou    | available | $1.39     | $25.98        | low            | low    | 5      | namecheap             |
+| adapa.cyou    | available | $1.99     | $19.49        | medium         | low    | 5      | namesilo              |
 | football.cyou | resell    | —         | —             | high           | low    | 8      | Dynadot Inc           |
 | ask.cyou      | premium   | $65.45    | $140.80       | high           | medium | 3      | namesilo              |
-| adapa.cyou    | available | $1.99     | $19.49        | medium         | low    | 5      | namesilo              |
+| aggro.cyou    | available | $1.39     | $25.98        | medium         | low    | 5      | namecheap             |
 | strength.cyou | resell    | —         | —             | high           | low    | 8      | Dynadot Inc           |
 | asl.cyou      | premium   | $195      | $390          | high           | low    | 3      | namecheap             |
-| aggro.cyou    | available | $1.39     | $25.98        | medium         | low    | 5      | namecheap             |
-| ass.cyou      | premium   | $384      | $768          | high           | low    | 3      | namesilo              |
 | alces.cyou    | available | $1.99     | $19.49        | high           | low    | 5      | namesilo              |
-| bud.cyou      | premium   | $65.45    | $140.80       | high           | low    | 3      | namesilo              |
+| ass.cyou      | premium   | $384      | $768          | high           | low    | 3      | namesilo              |
 | algin.cyou    | available | $1.99     | $19.49        | medium         | low    | 5      | namesilo              |
-| ccc.cyou      | premium   | $384      | $768          | high           | medium | 3      | namesilo              |
+| bud.cyou      | premium   | $65.45    | $140.80       | high           | low    | 3      | namesilo              |
 | amort.cyou    | available | $1.39     | $25.98        | medium         | low    | 5      | namecheap             |
-| ely.cyou      | premium   | $192      | $384          | high           | low    | 3      | namesilo              |
+| ccc.cyou      | premium   | $384      | $768          | high           | medium | 3      | namesilo              |
 | azoic.cyou    | available | $1.39     | $25.98        | medium         | low    | 5      | namecheap             |
-| fad.cyou      | premium   | $390      | $780          | high           | low    | 3      | namecheap             |
+| csa.cyou      | premium   | $192      | $384          | high           | low    | 3      | namesilo              |
 | bairn.cyou    | available | $1.39     | $25.98        | high           | low    | 5      | namecheap             |
+| ely.cyou      | premium   | $192      | $384          | high           | low    | 3      | namesilo              |
+| baste.cyou    | available | $1.99     | $19.49        | medium         | low    | 5      | namesilo              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,947 live domains                        |
+| 1,000-row public sample | 24,421 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 126 high-demand names under $2,500         |
+| Basic exported fields   | 131 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CYOU One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
