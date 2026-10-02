@@ -1,6 +1,8 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+a647260c-b314-4878-b354-84e34f2e6501,pda.cyou,premium,310.7,621.2,high,low,3,spaceship,,,01/10/2026 21:15
 b26656d1-337b-45c8-afd8-fe70ecfaf337,artery.cyou,premium,384,768,high,low,6,namesilo,,,20/09/2026 10:30
 d895dd93-7dd9-4922-87dd-53015554285c,cocacola.cyou,premium,384,768,high,high,9,namesilo,,,17/09/2026 07:18
+3c8878c0-f299-40bf-9ef2-47b0d923ccfd,subaru.cyou,premium,43.45,86.9,high,low,6,dynadot,,,01/10/2026 17:49
 5ffcba9a-07ab-4d01-827d-5c0923c35125,modesty.cyou,available,1.54,15.96,high,low,7,porkbun,,,30/09/2026 04:51
 9f068c33-96a5-4dd0-a661-314e19622ee8,canadian.cyou,premium,195,390,high,low,8,namecheap,,,23/09/2026 12:40
 1177b66a-8b38-46a4-9000-11050f620744,plentitude.cyou,available,1.39,25.98,medium,low,10,namecheap,,,15/09/2026 20:35
@@ -37,6 +39,7 @@ aa92164f-1b78-4968-a83d-5e24078a70ec,oaxaca.cyou,premium,68.43,147.2,high,low,6,
 dbedd75b-b273-442f-9532-789b5b8ef0ac,barbarians.cyou,available,1.99,19.49,medium,low,10,namesilo,,,01/10/2026 00:21
 1bd29b84-45f4-4b10-a028-c9c2964bb7bf,ignoring.cyou,available,1.99,16.27,medium,low,8,dynadot,,,28/09/2026 11:32
 d8bdd3b6-72e6-4540-8e2f-a3939c17d1f0,pcm.cyou,premium,310.7,621.2,high,low,3,spaceship,,,30/09/2026 19:38
+63398c2f-45ce-4fbe-9a3c-360b8f36bd64,fuze.cyou,premium,310.7,621.2,high,low,4,spaceship,,,01/10/2026 19:40
 b570e5bf-24d7-451d-b8a7-0dbf91db540b,undeveloped.cyou,available,19.48,,medium,low,11,namecheap,,,
 1e321a3d-8d07-4d8f-bac6-0daab9c1c15a,arawak.cyou,available,1.39,25.98,high,low,6,namecheap,,,06/08/2026 12:38
 8dc20812-392d-4255-8dbe-e1c69cf1674e,william.cyou,premium,195,390,high,low,7,namecheap,,,17/09/2026 13:23
@@ -52,9 +55,10 @@ c1e63254-a003-45b6-86a5-3358f2f5e391,sextuple.cyou,available,1.39,25.98,medium,l
 d1c68110-ccbf-41e4-b5ba-370c909ce6b0,tipped.cyou,available,1.39,25.98,high,low,6,namecheap,,,07/08/2026 13:33
 61dd0169-ec92-43af-870e-27ef56f6eb71,synoptical.cyou,available,1.39,25.98,medium,low,10,namecheap,,,11/09/2026 06:35
 19149d74-6657-4a33-83c9-8e270e560463,firstborn.cyou,available,1.39,25.98,high,low,9,namecheap,,,16/08/2026 02:17
-c3c6236a-63dc-4fff-82fa-6482bb8106d5,cheese.cyou,premium,310.7,621.2,high,low,6,spaceship,,,28/09/2026 12:55
+c3c6236a-63dc-4fff-82fa-6482bb8106d5,cheese.cyou,premium,384,768,high,low,6,namesilo,,,01/10/2026 21:12
 c9e06fd7-601a-487c-88d3-6a0e404f475b,swart.cyou,premium,384,768,medium,low,5,namesilo,,,11/09/2026 05:22
 75ece611-0b58-47c3-af76-a8d06a71b766,abactinal.cyou,available,1.39,25.98,medium,low,9,namecheap,,,
+6776a631-eb32-40db-a451-844d9827f8d1,dundee.cyou,premium,68.43,147.2,medium,low,6,namesilo,,,01/10/2026 08:10
 e74c60da-9207-4d2e-98bf-fc87fbbd8dfd,roasted.cyou,premium,68.43,147.2,high,low,7,namesilo,,,27/09/2026 15:50
 cdc950f0-c09c-490f-aa6b-82fe705e463d,bravo.cyou,premium,384,768,high,medium,5,namesilo,,,28/09/2026 22:45
 fdd65c8d-4445-40f8-a239-754d1f50d3c7,veterans.cyou,premium,68.43,147.2,high,low,8,namesilo,,,18/09/2026 11:06
@@ -82,6 +86,7 @@ d28cef35-3e07-4a16-aa28-811f15e156d2,hirsute.cyou,available,1.39,25.98,medium,lo
 2c10256b-0d4d-41f4-bf1d-0025437d7b6a,seriously.cyou,available,1.99,16.27,medium,low,9,dynadot,,,28/09/2026 13:17
 de49d04e-bb8f-45cc-a779-7a33ab7bd07a,dances.cyou,premium,384,768,high,low,6,namesilo,,,
 da416645-4f37-4155-a991-f51bdf3d8cd1,ccc.cyou,premium,384,768,high,medium,3,namesilo,,,
+d3130198-556d-4aae-a76c-5e0f524bd81a,herat.cyou,available,0.81,15.73,medium,low,5,spaceship,,,01/10/2026 19:57
 978e6dd0-d3d1-4941-a6e2-3bfbdd9bc74d,unhearing.cyou,available,,,medium,low,9,,,,13/08/2026 19:50
 46fe4362-96f2-4d8f-ab98-5073b5fb8cc2,conduction.cyou,available,1.99,19.49,high,low,10,namesilo,,,29/09/2026 10:47
 f9d1a19d-8fac-40c5-af67-648ccca8798c,burnley.cyou,premium,46.61,94.8,medium,low,7,namesilo,,,29/09/2026 15:51
@@ -95,7 +100,9 @@ c2d0ab67-2fc7-4b1d-aa2f-d1e1d88317cc,ambulation.cyou,available,1.99,19.49,medium
 819b9b37-338d-44ed-998a-ac27dbe93571,sorensen.cyou,premium,41.08,81.97,high,low,8,spaceship,,,30/09/2026 02:56
 3d30b509-55c4-4678-bf2b-91bb825cc9bd,saints.cyou,premium,384,768,medium,low,6,namesilo,,,28/09/2026 16:34
 c4f9f025-8ffa-4cc4-b180-3afe804271b1,provides.cyou,premium,68.43,147.2,medium,low,8,namesilo,,,16/09/2026 11:52
+7b31268b-425c-444a-acad-fdfb405faa98,discriminate.cyou,available,0.81,15.73,medium,low,12,spaceship,,,01/10/2026 05:36
 508f765b-1a53-453c-be0e-c5cf9bd2751f,formation.cyou,premium,59.71,119.23,high,low,9,spaceship,,,28/09/2026 05:38
+6b1a58c0-0cc7-4d6f-9b5f-85ec9c9e4336,barnstable.cyou,available,0.81,15.73,medium,low,10,spaceship,,,01/10/2026 11:53
 a2c20a1d-6fb0-47df-a0f3-19ef6578928c,browse.cyou,premium,330,660,high,low,6,dynadot,,,29/09/2026 04:39
 e3d8a018-efd9-45d8-af04-56994340d287,lay.cyou,premium,384,768,high,low,3,namesilo,,,25/09/2026 13:03
 b7d11eaf-6fa4-4950-917a-71810794ea63,lee.cyou,premium,384,768,high,medium,3,namesilo,,,22/08/2026 22:18
@@ -166,12 +173,15 @@ f5bb5df1-dbfb-4424-a5cd-8951b5589400,adapa.cyou,available,1.99,19.49,medium,low,
 1ca63d9b-de33-451f-8487-4085e73e2750,speeding.cyou,available,1.99,19.49,high,low,8,namesilo,,,25/09/2026 06:47
 7f47d5d7-fbbe-4635-bf18-ac3b4ef21cf1,barium.cyou,premium,390,780,medium,low,6,namecheap,,,20/09/2026 23:19
 9975e153-d704-47a5-b0be-d5fffbb5fd8c,fissile.cyou,available,1.39,25.98,medium,low,7,namecheap,,,18/08/2026 05:34
+01471a86-9c3a-4941-ba26-6e032551b235,hernia.cyou,available,1.39,25.98,high,low,6,namecheap,,,01/10/2026 19:57
 af559388-b88f-4229-8eca-2b1ff03cf8b9,neal.cyou,premium,41.08,81.97,medium,low,4,spaceship,,,28/09/2026 16:08
 d428ccd6-d365-4154-872e-2e4858b49117,blood.cyou,premium,384,768,high,low,5,namesilo,,,27/09/2026 03:17
 71b2e519-696f-415d-a5cd-1d29aa6aa75e,twits.cyou,available,1.99,19.49,low,low,5,namesilo,,,21/09/2026 06:16
 69c1d9b8-f365-43a7-a279-ca4614b8b58e,aau.cyou,premium,195,390,high,low,3,namecheap,,,30/09/2026 20:29
+9bba35bf-1e27-489f-8e6c-6aab6d8173e7,sheba.cyou,premium,68.43,147.2,medium,low,5,namesilo,,,01/10/2026 10:07
 48ea5855-1b5c-473f-b33c-c3772a8f614b,maguey.cyou,available,1.99,19.49,medium,low,6,namesilo,,,17/09/2026 16:37
 bf2558c7-c486-4c8b-aa71-0ae726567d4c,extinction.cyou,premium,74.75,149.5,high,low,10,namecheap,,,29/09/2026 13:38
+6f23f8f3-482f-49fc-8aa3-dec6c033b347,janie.cyou,premium,384,768,high,low,5,namesilo,,,01/10/2026 08:49
 b2f4e16c-f292-47cb-86a8-876de736892b,strawberry.cyou,premium,68.43,147.2,high,low,10,namesilo,,,29/09/2026 22:40
 6c84e38d-a391-4d54-9a1c-e3a7f489e6d1,donegal.cyou,premium,68.43,147.2,medium,low,7,namesilo,,,28/09/2026 21:57
 23851319-9a5c-419c-99b6-443fa0837304,person.cyou,premium,384,768,high,low,6,namesilo,,,25/09/2026 09:11
@@ -190,7 +200,7 @@ d4e35a76-4b39-4732-bdb9-521bc73807ac,convexly.cyou,available,1.39,25.98,medium,l
 2228fcfe-2947-4ab2-82d1-d51333edb327,paley.cyou,available,0.81,15.73,medium,low,5,spaceship,,,29/09/2026 15:50
 da15d215-46c7-45f3-807a-3b4dda6cd413,beatrice.cyou,premium,384,768,high,low,8,namesilo,,,22/09/2026 21:46
 ca4e2f59-0c63-4f33-8675-80d645bedce3,vote.cyou,premium,390,780,high,medium,4,namecheap,,,29/09/2026 00:47
-f50558c4-71b2-4638-8509-56228aa07d92,comfortably.cyou,available,1.79,14.95,high,low,11,namesilo,,,
+f50558c4-71b2-4638-8509-56228aa07d92,comfortably.cyou,available,0.81,15.73,high,low,11,spaceship,,,01/10/2026 18:17
 8f3426d0-a339-4299-af55-2a76515d15ed,thrilling.cyou,available,1.39,25.98,high,low,9,namecheap,,,16/08/2026 02:41
 a6a2c37c-4402-498e-86af-a26ec65b32fd,turnovers.cyou,available,1.99,19.49,medium,low,9,namesilo,,,19/09/2026 22:02
 78816b2f-8c86-4012-a570-1308b2eb218c,agrology.cyou,available,1.39,25.98,medium,low,8,namecheap,,,17/09/2026 19:36
@@ -199,9 +209,11 @@ de415e60-46c6-41bc-867e-4ea8bc70e2e0,investigators.cyou,premium,68.43,147.2,medi
 01917921-2a3b-4f84-89ae-6d36271e7104,necrotic.cyou,available,1.39,25.98,medium,low,8,namecheap,,,03/09/2026 14:45
 3cca644c-723f-44e3-9db3-0cc68928e914,fastest.cyou,premium,74.75,149.5,high,low,7,namecheap,,,14/09/2026 17:49
 72b24a3c-7506-46fb-bb98-618a82604068,cmos.cyou,premium,384,768,medium,low,4,namesilo,,,29/09/2026 04:59
+5939c7fd-ba25-4b0c-9a63-8b113891491f,paging.cyou,available,0.81,15.73,high,low,6,spaceship,,,01/10/2026 19:37
 65e025e3-8716-4fe7-a78f-5e1dda01a8f4,doric.cyou,premium,384,768,medium,low,5,namesilo,,,14/08/2026 16:13
 71712846-2d18-4868-b490-c3b15a3c3aa9,vigorous.cyou,premium,68.43,147.2,high,low,8,namesilo,,,13/09/2026 05:44
 848a5d80-10d6-4ebb-9f23-2e9e59d6519a,childs.cyou,premium,384,768,medium,low,6,namesilo,,,28/09/2026 12:16
+0b44c8dc-e183-4ffb-8f01-661c98af4f70,noam.cyou,premium,10.55,20.9,medium,low,4,spaceship,,,02/10/2026 00:46
 c936bc4f-2e71-43f9-b220-1cff4e8e664a,deciduous.cyou,available,1.39,25.98,medium,low,9,namecheap,,,13/08/2026 21:26
 436c667d-680d-4875-b0ef-fc69954e8aff,bled.cyou,premium,384,768,high,low,4,namesilo,,,30/09/2026 03:16
 e516acc4-d96a-4cd1-9183-6376efbcdcd6,fte.cyou,premium,195,390,high,low,3,namecheap,,,29/09/2026 03:33
@@ -215,6 +227,7 @@ e462ebe5-48e1-43f3-8386-01ea3169b3fe,dromedary.cyou,available,1.99,19.49,medium,
 c83d4727-9858-4765-a199-a31a1d98322f,creep.cyou,premium,384,768,high,medium,5,namesilo,,,10/09/2026 12:23
 5bd0f0f0-4f7c-4f51-b29e-2564bb2b3395,replicate.cyou,available,1.39,25.98,high,low,9,namecheap,,,14/08/2026 21:26
 69cec151-1eca-4774-9cb1-914b6277318c,replaces.cyou,available,1.99,19.49,medium,low,8,namesilo,,,20/09/2026 05:35
+2363240a-2259-443c-b8d4-71a6aafa9de1,roulette.cyou,premium,59.71,119.23,high,low,8,spaceship,,,01/10/2026 20:21
 ee8b76bf-4f53-4c13-990f-41fe36067325,torquay.cyou,premium,74.75,149.5,medium,low,7,namecheap,,,30/09/2026 21:29
 dc832826-797c-483f-a892-9ce3841e2f48,tommy.cyou,premium,384,768,high,medium,5,namesilo,,,25/09/2026 11:48
 6a82eb26-5358-45a2-9ad1-b4aad5bfee18,detained.cyou,available,0.81,15.73,low,low,8,spaceship,,,29/09/2026 05:25
@@ -232,7 +245,9 @@ db229577-0e0e-4265-826f-c43be74f72c5,aquilegia.cyou,available,1.99,19.49,medium,
 3712566a-4c96-4b7b-9134-631101687b3a,seed.cyou,premium,310.7,621.2,high,medium,4,spaceship,,,29/09/2026 10:21
 fdbf967e-9a6f-4fcf-8817-bf9f0ae039eb,causally.cyou,available,1.39,25.98,medium,low,8,namecheap,,,14/09/2026 06:01
 83fe8652-3528-4453-9a7c-9e81bf2efdd0,professors.cyou,available,1.99,19.49,medium,low,10,namesilo,,,29/09/2026 11:19
+f902795d-6fab-41f7-9d47-4e8f94668107,laborers.cyou,available,1.99,16.27,medium,low,8,dynadot,,,02/10/2026 03:32
 5f1be160-cbef-4256-af02-536689c24580,unrivaled.cyou,available,1.39,25.98,high,low,9,namecheap,,,24/08/2026 17:06
+d23c984e-0d10-4c84-9613-d349f28f7a47,chronological.cyou,available,2.99,19.49,medium,low,13,namesilo,,,01/10/2026 04:53
 e67a2b78-47c8-4ac4-aedb-897d1458b9be,sup.cyou,premium,384,768,high,low,3,namesilo,,,30/09/2026 12:28
 066326cb-6340-4e7f-8626-62343fdaa6b2,severe.cyou,premium,390,780,medium,low,6,namecheap,,,22/09/2026 13:18
 c3b9a577-c0c7-4cc6-a176-e361dcae5216,stroppy.cyou,available,1.39,25.98,medium,low,7,namecheap,,,10/08/2026 17:59
@@ -248,6 +263,7 @@ f05093c1-b597-49ed-8f98-723a71fc4a02,bsc.cyou,premium,384,768,high,low,3,namesil
 596e97d0-1d7e-438f-b0dc-7dbd3dd0822c,preserve.cyou,premium,74.75,149.5,high,low,8,namecheap,,,24/09/2026 17:28
 7f34d327-c858-4222-95d7-3eb088a7d7e2,ferrari.cyou,premium,330,660,high,high,7,dynadot,,,28/09/2026 03:37
 760d03a1-7c6f-49f1-9e40-10bab466c95c,straw.cyou,premium,384,768,high,low,5,namesilo,,,10/09/2026 22:03
+89694191-d533-4289-a33a-d2117fc05596,abbie.cyou,premium,13,26,high,low,5,namecheap,,,02/10/2026 00:07
 5cf048c4-ab88-4e1b-8214-3a551dd10c4f,thundered.cyou,available,1.99,19.49,medium,low,9,namesilo,,,20/09/2026 16:05
 bfb1a398-1c9e-4628-85dc-2de356602779,mistakes.cyou,available,1.99,19.49,medium,low,8,namesilo,,,16/09/2026 10:20
 6ba004e6-7389-43f7-947d-663234d8e16a,verge.cyou,premium,310.7,621.2,high,low,5,spaceship,,,28/09/2026 18:30
@@ -354,6 +370,7 @@ eb1c3cdd-4de9-4c14-8b38-45a2066202fb,oppositions.cyou,available,1.99,19.49,low,l
 dfe2b697-c11c-45f3-bae4-15822a666493,stinky.cyou,available,1.39,25.98,high,low,6,namecheap,,,13/08/2026 05:18
 e101dc1b-8d68-42ef-8a9f-56c6ef27b595,druggist.cyou,available,1.39,25.98,high,low,8,namecheap,,,19/09/2026 19:38
 d1ebf7a2-dfce-4766-a7af-8153e09b76a5,gloss.cyou,premium,384,768,high,low,5,namesilo,,,08/09/2026 22:58
+a5835242-6610-4b22-8056-dd01925a85de,laban.cyou,available,0.81,15.73,high,low,5,spaceship,,,01/10/2026 20:14
 d5ed44c7-2b5c-4d7d-95a3-5d3144d8fd20,bedfordshire.cyou,available,1.54,15.96,medium,low,12,porkbun,,,30/09/2026 12:54
 b38ff890-8cb4-40db-8e68-e1423854fb79,turpin.cyou,premium,384,768,medium,low,6,namesilo,,,01/10/2026 01:44
 e797cbdb-4042-4ac1-bcb1-ac8339447254,official.cyou,premium,68.43,147.2,high,low,8,namesilo,,,26/09/2026 00:05
@@ -366,10 +383,12 @@ db360348-95b5-4dc6-aeb7-60f314e369bc,falter.cyou,available,1.39,25.98,high,low,6
 1e515100-30dc-4a36-ac75-75e72b5526bc,orissa.cyou,available,0.81,15.73,medium,low,6,spaceship,,,30/09/2026 18:16
 36eaf1a0-c36d-4a8f-978d-578976c334fe,accuser.cyou,available,0.81,15.73,medium,low,7,spaceship,,,28/09/2026 17:32
 d7828cab-4ad2-41ed-a894-b9a76f60de67,capable.cyou,premium,390,780,high,low,7,namecheap,,,21/09/2026 18:33
+935918ae-6f7d-4313-b6b2-79ec0ae46f64,spasm.cyou,available,0.81,15.73,high,low,5,spaceship,,,01/10/2026 19:07
 6e9a150c-f960-429a-a2f4-99ac11217e84,apologist.cyou,available,1.39,25.98,medium,low,9,namecheap,,,19/09/2026 18:45
 41e03ccb-1a92-412f-a412-aff6c08bab78,auger.cyou,premium,390,780,medium,low,5,namecheap,,,21/09/2026 03:19
 ee652b04-86b2-474a-9023-b836321324e8,bud.cyou,premium,390,780,high,low,3,namecheap,,,29/09/2026 04:58
 ec81e4cf-6e99-4068-bac6-5f1bd0e8fb79,leads.cyou,premium,390,780,high,low,5,namecheap,,,25/09/2026 20:21
+8612b1c9-abde-4cf6-a740-179e0d021e9c,unpublished.cyou,premium,59.71,119.23,medium,low,11,spaceship,,,02/10/2026 01:35
 34dae671-0a6c-447f-802b-76f09dc02574,candidacy.cyou,available,1.99,19.49,high,low,9,namesilo,,,29/09/2026 06:17
 a456fcce-356c-4d6a-99fa-511c6efaa6dd,naif.cyou,premium,11.8,23.6,medium,low,4,namesilo,,,03/09/2026 12:52
 5b5b5a2d-6108-48b8-8314-c9158c6d22f6,lds.cyou,premium,390,780,high,low,3,namecheap,,,28/09/2026 08:25
@@ -418,7 +437,7 @@ a9068792-c6ed-4655-acc6-11c628fc00b5,defeats.cyou,available,1.99,19.49,low,low,7
 d8ca1cab-5db7-4e88-a145-8cfb6a3b15e5,polls.cyou,premium,384,768,high,low,5,namesilo,,,29/09/2026 07:53
 eef79c0d-e603-4d04-871f-16f1ffbd53f0,hani.cyou,premium,384,768,high,low,4,namesilo,,,17/09/2026 23:54
 50a18a65-8f38-40c5-adbc-5d46325c18b4,aventail.cyou,available,1.99,19.49,medium,low,8,namesilo,,,21/09/2026 09:05
-c7b2bd64-7bed-402f-9916-619ec6307aac,clinical.cyou,premium,68.43,147.2,high,low,8,namesilo,,,28/09/2026 12:54
+c7b2bd64-7bed-402f-9916-619ec6307aac,clinical.cyou,premium,74.75,149.5,high,low,8,namecheap,,,01/10/2026 21:10
 34f6c643-c2fe-498b-a81d-aef35fd76f03,smallest.cyou,available,1.99,16.27,medium,low,8,dynadot,,,28/09/2026 17:15
 1a6b1e51-5a27-41dd-830a-d5ac3bd61d47,inflict.cyou,available,0.81,15.73,high,low,7,spaceship,,,30/09/2026 03:14
 1bd73242-1ab2-4bce-9ed5-046d6563770a,polyatomic.cyou,available,1.39,25.98,medium,low,10,namecheap,,,08/09/2026 23:10
@@ -440,10 +459,12 @@ fc729098-1a64-41b0-b692-93a082ed4fd7,meetings.cyou,premium,74.75,149.5,high,low,
 62d135eb-432f-4151-b62a-de9e9697a517,twenty.cyou,premium,384,768,high,low,6,namesilo,,,21/09/2026 12:24
 16ec01b6-4118-4eba-960b-d5e457c5eb22,aerobiotic.cyou,available,1.39,25.98,medium,low,10,namecheap,,,
 cfc32afa-8379-48d2-8a56-2b66e1e42063,boxes.cyou,premium,384,768,medium,low,5,namesilo,,,17/09/2026 04:37
+5e33bd4c-9dca-4647-9607-72c1684cd725,trainers.cyou,premium,59.71,119.23,medium,low,8,spaceship,,,02/10/2026 02:12
 2ee0fcf5-fda7-401f-a974-b44d5672ca84,weirdness.cyou,available,1.99,19.49,medium,low,9,namesilo,,,23/09/2026 23:18
 23ebedcf-5b68-46b9-af11-1e461b1cb377,bifurcated.cyou,available,1.39,25.98,medium,low,10,namecheap,,,09/08/2026 20:24
 f7564122-1022-4b36-b24d-6f3018c80348,alidade.cyou,available,1.99,19.49,medium,low,7,namesilo,,,18/09/2026 07:31
 dd23ad72-0fea-4f7b-8b4f-86b294f272a7,deeply.cyou,premium,384,768,medium,low,6,namesilo,,,13/08/2026 22:30
+fe298470-74f0-4d85-8642-3b2071e59fbc,instinctively.cyou,available,1.8,15.96,medium,low,13,porkbun,,,01/10/2026 22:50
 c5ddb689-7fdc-48b0-b74a-64ae3175545d,inferno.cyou,premium,51.35,102.7,high,low,7,namecheap,,,24/09/2026 17:14
 8e223e60-70f2-43b2-8cb1-f8615ba83542,bandmaster.cyou,available,1.99,19.49,high,low,10,namesilo,,,22/09/2026 01:26
 c88a0a05-843f-4adf-8e24-b94c55831ac8,strenuous.cyou,available,1.39,25.98,medium,low,9,namecheap,,,10/09/2026 21:45
@@ -458,8 +479,10 @@ ac2431e2-edbb-4bf8-952f-e39bd679c1c6,agreeable.cyou,available,1.99,19.49,high,lo
 8f6e2645-61be-43f0-87ca-c2647f4c97b6,hear.cyou,premium,390,780,high,low,4,namecheap,,,30/09/2026 20:01
 c8e41e2f-5abe-400f-bcd9-f8c233acec40,cissy.cyou,available,1.39,25.98,medium,low,5,namecheap,,,12/08/2026 08:40
 92789702-099c-4913-a3eb-95e94f0c5e3c,wah.cyou,premium,384,768,high,low,3,namesilo,,,30/09/2026 03:50
+3f925c39-306b-419b-8b74-e32dc0fe5d95,flanks.cyou,available,0.81,15.73,low,low,6,spaceship,,,01/10/2026 15:30
 45f3e23b-65fe-487b-bccd-fc311e026955,viruses.cyou,available,1.99,19.49,medium,low,7,namesilo,,,30/09/2026 06:37
 f63c3828-adb2-4451-a400-2fac8384cdf2,polly.cyou,premium,384,768,high,low,5,namesilo,,,28/09/2026 07:34
+73c0056b-5c9c-49a6-bc72-2ad8a0b227bf,recife.cyou,premium,310.7,621.2,high,low,6,spaceship,,,01/10/2026 21:15
 ecd69f6e-e742-42db-b12d-1f700ac3955d,annexation.cyou,available,1.39,25.98,medium,low,10,namecheap,,,19/09/2026 10:25
 6aee5b5d-790d-47cc-bcd0-16d9ed76b73c,superhuman.cyou,available,1.39,25.98,high,low,10,namecheap,,,11/09/2026 02:16
 120e2850-b0eb-4fd0-9813-372a23e0f296,progressively.cyou,available,0.81,15.73,medium,low,13,spaceship,,,30/09/2026 12:19
@@ -493,6 +516,7 @@ c93e9834-fb68-47d2-8124-a48bfa00cfcf,haptic.cyou,available,1.39,25.98,medium,low
 cd41eaef-82d8-4ebb-bb63-1b62696695c2,aggro.cyou,available,1.39,25.98,medium,low,5,namecheap,,,17/09/2026 17:46
 53189370-1baf-4acf-a328-a986607de42f,foundation.cyou,premium,74.75,149.5,high,low,10,namecheap,,,24/09/2026 18:15
 535bf88a-b42c-41a3-9198-83dde808e6c1,acrolein.cyou,available,1.99,19.49,medium,low,8,namesilo,,,17/09/2026 03:46
+47289c16-f370-43da-9ded-0ea2badbdace,commissioners.cyou,available,2.99,19.49,low,low,13,namesilo,,,02/10/2026 02:36
 c632ba90-f550-4f1d-8ed6-6ceae5403e58,overview.cyou,available,1.99,19.49,high,low,8,namesilo,,,30/09/2026 02:27
 32e2c31f-a8dc-4c6c-94a8-82a914451c56,footballers.cyou,available,1.99,19.49,medium,low,11,namesilo,,,20/09/2026 13:07
 0f0d73a4-e506-4c35-8518-8b4e9d5f763d,morgantown.cyou,premium,59.71,119.23,medium,low,10,spaceship,,,29/09/2026 19:41
@@ -508,12 +532,14 @@ b0624093-f0d2-4c35-b977-70bd3e4e3d0f,primacy.cyou,available,2.99,19.49,high,low,
 285d1461-53cd-4d1c-bf88-713ac601dd0c,implant.cyou,premium,63.3,126.07,high,low,7,porkbun,,,29/09/2026 13:06
 8699b459-64bb-4cbd-8c61-9a1cd9ccb70a,ayurveda.cyou,available,1.99,19.49,high,low,8,namesilo,,,21/09/2026 10:52
 0145cbe4-305d-45f2-b897-d4b2f6b1c2f0,unrested.cyou,available,1.39,25.98,medium,low,8,namecheap,,,12/09/2026 18:02
+ae56b5ac-8fb4-48b3-a2e9-ad1657e00bfe,cameo.cyou,premium,310.7,621.2,high,low,5,spaceship,,,02/10/2026 04:15
 cc69e865-a387-4135-8ecd-f43be35af300,stones.cyou,available,1.99,19.49,medium,low,6,namesilo,,,26/09/2026 03:37
 0dc41f70-4b60-421a-89ff-a6b94961893c,rein.cyou,premium,11.8,23.6,high,low,4,namesilo,,,30/09/2026 09:27
 3f942474-6316-4bc4-8009-c1b05b3509b9,barrelfish.cyou,available,1.39,25.98,medium,low,10,namecheap,,,22/09/2026 08:20
 764a58cb-8ee3-4dd0-b14c-b2b765343e53,showdown.cyou,available,1.99,19.49,high,low,8,namesilo,,,30/09/2026 09:36
 c462ac75-8bd0-4bba-aebe-1fafbd21a071,crowe.cyou,premium,155.45,310.7,medium,low,5,spaceship,,,28/09/2026 12:13
 bcc1c941-2c0d-4462-9b23-7dfe41fee999,girl.cyou,premium,384,768,high,low,4,namesilo,,,29/09/2026 13:16
+5d11709d-0553-4c32-b6dc-2a3088665bcf,belvoir.cyou,available,2.99,19.49,medium,low,7,namesilo,,,01/10/2026 23:55
 bd9545ed-b559-453a-ac7b-c99458c51eed,estimates.cyou,available,1.99,19.49,medium,low,9,namesilo,,,20/09/2026 04:10
 5f7bab18-7876-4072-bdae-ebd14b35dcd1,fleer.cyou,available,1.39,25.98,low,low,5,namecheap,,,18/08/2026 17:47
 654aa822-8b42-4a4c-b89c-acbb0d1f0bd8,promenade.cyou,available,1.99,19.49,high,low,9,namesilo,,,18/09/2026 16:56
@@ -537,6 +563,7 @@ f17851af-e00d-4f90-9b52-b90c07a0dbd5,introductions.cyou,available,1.39,25.98,hig
 bdb1fe97-8f5a-47d9-a6f7-ec83a570f992,running.cyou,premium,155.45,310.7,high,low,7,spaceship,,,27/09/2026 17:05
 ccb083df-ffb6-43cc-b420-14dec0e3ff4f,coldly.cyou,available,1.99,19.49,low,low,6,namesilo,,,28/09/2026 14:07
 d303aa9e-980f-443a-b2f4-94e3ff981a24,calcic.cyou,available,1.39,25.98,medium,low,6,namecheap,,,11/08/2026 13:49
+e7f2ed4b-872a-4f13-bf79-980513a33221,flowed.cyou,available,2.99,19.49,medium,low,6,namesilo,,,02/10/2026 02:35
 2695fdef-93df-4c29-9ad4-8c7b74d2c0d0,stealing.cyou,available,1.39,25.98,medium,low,8,namecheap,,,11/09/2026 13:24
 2dc20f6a-e954-4097-a06b-a57cc5ba9c5d,nonviable.cyou,available,1.39,25.98,medium,low,9,namecheap,,,03/09/2026 21:02
 0004f784-2883-456a-9eca-b4d3c03d18e0,attired.cyou,available,1.39,25.98,medium,low,7,namecheap,,,06/08/2026 04:47
@@ -582,13 +609,16 @@ a3004f14-ac41-4127-a8bf-84213dfc8918,louisville.cyou,premium,155.45,310.7,high,l
 d15c566a-a1e3-4193-9102-a73f5622dd16,condone.cyou,available,0.81,15.73,high,low,7,spaceship,,,30/09/2026 17:43
 aafd3c76-a4c9-4de4-87d1-26a3d1d929d2,grandchild.cyou,available,0.81,15.73,high,low,10,spaceship,,,29/09/2026 21:23
 6bc2e4df-5c84-4043-b817-48d3c3bc4a93,springbuck.cyou,available,1.99,19.49,medium,low,10,namesilo,,,19/09/2026 14:19
+2a814863-2480-4289-aef5-6304836b79a8,thunderstorm.cyou,available,0.81,15.73,high,low,12,spaceship,,,01/10/2026 22:23
 b6f31574-a802-4245-a311-94214105cbcb,lucas.cyou,premium,192,384,high,medium,5,namesilo,,,25/09/2026 06:28
 063ffc8b-124b-4352-b7fc-3d309eadd908,flabby.cyou,available,1.39,25.98,medium,low,6,namecheap,,,18/08/2026 06:05
 841689a7-694c-4033-9873-70c53bb55482,episodic.cyou,available,1.39,25.98,medium,low,8,namecheap,,,17/08/2026 11:11
+ba654de4-466d-4cb0-80eb-45c27bb5dc30,lawrenceville.cyou,premium,46.61,94.8,medium,low,13,namesilo,,,02/10/2026 00:56
 c178859f-392a-4fc7-8344-c630339594b0,minority.cyou,available,1.99,19.49,high,low,8,namesilo,,,28/09/2026 14:53
 1785fcb8-b8e9-4644-b04f-577303c65d2d,partly.cyou,premium,390,780,medium,low,6,namecheap,,,15/09/2026 19:01
 0b69a57e-4f03-498f-a50a-945e4934d2a9,nra.cyou,premium,390,780,medium,low,3,namecheap,,,29/09/2026 01:42
 eb4cb338-cb1b-429f-9c79-bfd13b3b0ce1,potty.cyou,available,1.39,25.98,high,low,5,namecheap,,,16/08/2026 21:14
+4d3d7200-a6fd-4ecf-84c8-ec1f44c92c19,distributors.cyou,premium,74.75,149.5,medium,low,12,namecheap,,,02/10/2026 03:29
 42487fb9-c5ff-4271-b4b9-9e1f09926d61,connolly.cyou,premium,46.61,94.8,high,low,8,namesilo,,,25/09/2026 22:17
 6589ad8c-e7a3-4e3d-96fb-ab13e99f69e9,standon.cyou,available,1.79,19.49,medium,low,8,namesilo,,,
 6f9f341e-7e3d-4402-ab1a-a7fa096b1d9d,neuroscience.cyou,premium,74.75,149.5,high,low,12,namecheap,,,30/09/2026 20:58
@@ -598,6 +628,7 @@ eb4cb338-cb1b-429f-9c79-bfd13b3b0ce1,potty.cyou,available,1.39,25.98,high,low,5,
 4568d146-fc54-49a4-b3a8-3e49639cc710,sirach.cyou,available,1.99,19.49,medium,low,6,namesilo,,,23/09/2026 07:34
 fd5a4264-8528-477e-847e-2045e263e857,finder.cyou,premium,328.02,655.52,high,low,6,porkbun,,,30/09/2026 01:38
 c0bcb223-e105-4df2-a59c-b6824db6e43b,jennings.cyou,premium,51.35,102.7,high,low,8,namecheap,,,25/09/2026 19:32
+ba9f702e-343d-46a0-a381-61ec3f1710cf,scandals.cyou,available,2.99,19.49,medium,low,8,namesilo,,,02/10/2026 02:46
 cc27340b-8cf1-457d-8104-11e88a52cb64,faintly.cyou,available,1.39,25.98,medium,low,7,namecheap,,,14/09/2026 17:33
 fb5cd925-722f-4679-bb98-2a745a6badf0,mystified.cyou,available,1.39,25.98,medium,low,9,namecheap,,,24/08/2026 21:32
 39435f92-8294-4ab1-bfa3-5b81adf3fb18,babies.cyou,premium,384,768,high,low,6,namesilo,,,
@@ -605,8 +636,10 @@ eb03291b-a4a6-477f-be6b-d5be72dd73ce,gardening.cyou,premium,68.43,147.2,high,low
 4ca32716-e68f-432c-8d16-3183131678b4,cindy.cyou,premium,282.88,565.76,high,low,5,namesilo,,,
 42a4c185-ec14-4cab-b378-aa859471d4ad,said.cyou,premium,328.02,655.52,high,low,4,porkbun,,,30/09/2026 23:01
 584087c2-a9a2-4d01-9759-fe28b1027b35,blush.cyou,premium,384,768,high,low,5,namesilo,,,13/08/2026 06:32
+cad133f0-649e-4f92-9542-73db14ce3669,hama.cyou,premium,51.35,102.7,medium,low,4,namecheap,,,02/10/2026 00:52
 ff5e7917-3673-471e-b1fe-f293db5e8c29,protective.cyou,premium,46.61,94.8,high,low,10,namesilo,,,27/09/2026 07:44
 5075445d-c234-4407-b0cf-cc47834ea50e,wholly.cyou,available,1.39,25.98,high,low,6,namecheap,,,
+18f587d9-ab5b-415a-8884-6b03141fe11c,saltwater.cyou,premium,155.45,310.7,high,low,9,spaceship,,,02/10/2026 04:11
 2b60c72a-8988-46f7-9753-eaecb5160645,they.cyou,premium,310.7,621.2,high,low,4,spaceship,,,30/09/2026 22:20
 b453e6de-ae72-476e-9a82-946bbbce8799,pretend.cyou,premium,68.43,147.2,high,low,7,namesilo,,,25/09/2026 16:18
 54b3e293-033f-4241-8fa2-986eae3ccc8c,futuristic.cyou,premium,74.75,149.5,high,low,10,namecheap,,,18/08/2026 19:17
@@ -628,10 +661,11 @@ dfa9fd86-e7c1-4c52-b5da-343c7b9d36dc,rimy.cyou,premium,11.8,23.6,medium,low,4,na
 3e00ccba-0dd8-45b0-946f-fdb3002355ea,consumption.cyou,available,1.79,19.49,high,low,11,namesilo,,,
 dac9a311-70fc-4ac4-a4e9-c1d327226ea3,anuria.cyou,available,1.99,19.49,medium,low,6,namesilo,,,19/09/2026 15:55
 ca4be888-92eb-4b32-bedf-f4df9280de00,roommates.cyou,premium,46.61,94.8,medium,low,9,namesilo,,,21/09/2026 02:59
-2124a192-a5d9-4576-af2d-8d875acf7a57,importantly.cyou,available,1.79,14.95,medium,low,11,namesilo,,,
+2124a192-a5d9-4576-af2d-8d875acf7a57,importantly.cyou,available,2.99,19.49,medium,low,11,namesilo,,,01/10/2026 06:18
 2fee2872-76f2-4596-8ae1-92abf130d106,skirting.cyou,available,1.99,19.49,medium,low,8,namesilo,,,20/09/2026 08:31
 4ac8ff4b-4da9-4ae3-8a04-6c28ccc1ae79,donuts.cyou,premium,384,768,high,medium,6,namesilo,,,18/09/2026 14:27
 850cdd91-f9a2-4b51-a7e2-a04cde12cbb7,benz.cyou,premium,310.7,621.2,high,low,4,spaceship,,,29/09/2026 14:58
+bd5ffa92-9192-46f5-a209-ff5c9c2bd1db,josephson.cyou,premium,43.65,86.77,medium,low,9,porkbun,,,02/10/2026 01:45
 799fa35c-0272-4a29-b240-bb20a89edfd7,witloof.cyou,available,1.99,19.49,medium,low,7,namesilo,,,23/09/2026 05:01
 28c98351-a4e3-46e7-b0e2-1715d795f5bb,totalizer.cyou,available,1.39,25.98,medium,low,9,namecheap,,,17/09/2026 06:58
 bd0e7c72-fabe-4c39-b769-379274671a75,stabilized.cyou,available,1.39,25.98,medium,low,10,namecheap,,,10/09/2026 17:54
@@ -661,13 +695,12 @@ e730153b-45d5-4065-8871-3b879110d793,hodgson.cyou,premium,59.71,119.23,medium,lo
 b1247add-9935-4613-9792-515ab101517c,exceeds.cyou,available,1.99,19.49,medium,low,7,namesilo,,,01/10/2026 00:44
 7a26932f-565b-4173-a63b-1b0b741186ed,mackie.cyou,premium,310.7,621.2,medium,low,6,spaceship,,,30/09/2026 05:44
 7ef3df16-6ddb-4271-ae6f-98b6d0f76c10,called.cyou,premium,68.43,147.2,high,low,6,namesilo,,,
-3ca18911-20f1-4f9c-b516-418e7431c003,calendar.cyou,premium,74.75,149.5,high,medium,8,namecheap,,,24/09/2026 11:42
+3ca18911-20f1-4f9c-b516-418e7431c003,calendar.cyou,premium,74.75,149.5,high,medium,8,namecheap,,,01/10/2026 11:43
 f1eb666e-4cd9-4dd6-9ce2-c47c29f8d81b,chart.cyou,premium,310.7,621.2,high,low,5,spaceship,,,29/09/2026 08:17
 1885a618-e285-4a30-85b0-298315843cf2,deadening.cyou,available,1.39,25.98,medium,low,9,namecheap,,,10/08/2026 19:57
 d9aacb4d-bd01-4a73-8065-312804d34142,decatur.cyou,premium,192,384,high,low,7,namesilo,,,27/09/2026 03:44
 3c2268b9-fa71-45e2-8f47-93bc1c25c6a8,widen.cyou,premium,328.02,655.52,high,low,5,porkbun,,,30/09/2026 19:38
 6f304f4f-c8c5-403f-a937-2d8855f897cc,cervine.cyou,available,1.39,25.98,medium,low,7,namecheap,,,12/08/2026 01:00
-964aef5b-15d7-43dd-adc2-0051ed84e025,crimes.cyou,available,19.48,,high,low,6,namecheap,,,
 ed807068-0da1-4264-aeaa-87e6278e594e,receptionist.cyou,premium,63.25,126.5,high,low,12,dynadot,,,30/09/2026 12:16
 3477474b-b471-45ca-8da3-6e70107ab51f,gamely.cyou,available,1.39,25.98,medium,low,6,namecheap,,,14/09/2026 21:02
 263ba73b-6f3f-4e06-9708-d61aa3111e0b,eyeshadow.cyou,premium,192,384,high,low,10,namesilo,,,
@@ -719,6 +752,7 @@ ebe33851-995e-4b85-b7da-dc36e5b8766d,florid.cyou,available,1.39,25.98,medium,low
 ef984dbd-31c0-4025-8b33-941c5964fcb3,usages.cyou,available,1.99,19.49,low,low,6,namesilo,,,29/09/2026 05:10
 703eaf9b-b7b0-4491-a3d9-bf5076e246e6,hawks.cyou,premium,328.02,655.52,medium,low,5,porkbun,,,28/09/2026 22:17
 3f15afb7-2ca4-4b9a-a2c3-5ec936a7cda3,pianos.cyou,premium,384,768,medium,low,6,namesilo,,,20/09/2026 09:12
+5409e07d-33ff-417c-9baf-6066030ed5bc,ref.cyou,premium,390,780,high,low,3,namecheap,,,01/10/2026 21:28
 7ccd64b3-0cd5-4f02-bbf4-79299e9e10b2,cinderella.cyou,premium,192,384,high,low,10,namesilo,,,29/09/2026 09:13
 fea25ee9-784a-4575-8c0f-5dcec087fbea,knockdown.cyou,available,1.39,25.98,medium,low,9,namecheap,,,22/08/2026 16:34
 da12f03a-62d0-4878-8aa6-3f5bce926fd4,sass.cyou,premium,11.8,23.6,high,low,4,namesilo,,,21/09/2026 14:47
@@ -728,10 +762,13 @@ b6a8daaa-905b-4b99-85fe-0f38d908d0c2,criterion.cyou,premium,384,768,high,low,9,n
 ec5879be-8852-413d-96ef-98a7caf7edfe,carlisle.cyou,premium,46.61,94.8,high,low,8,namesilo,,,25/09/2026 14:54
 f264c64f-a921-4add-b24d-db5e8495f360,leigh.cyou,premium,384,768,high,low,5,namesilo,,,25/09/2026 08:55
 e1c5ab48-39f2-4b81-9105-ae74288f8ec9,constancy.cyou,available,1.99,19.49,high,low,9,namesilo,,,24/09/2026 17:32
+6f9a4fff-5d02-49b9-9fca-91f0c321b47c,variational.cyou,available,2.99,19.49,high,low,11,namesilo,,,01/10/2026 06:35
 d8eee426-b193-46f9-a709-ee40b0d7a29b,conformity.cyou,available,1.99,19.49,high,low,10,namesilo,,,16/09/2026 15:32
+3adc8a07-6641-45de-a3d7-5863fd2ea06a,dewitt.cyou,premium,310.7,621.2,medium,low,6,spaceship,,,01/10/2026 07:23
 dc2585c9-5e7e-42a7-886e-3e7427375e7a,advent.cyou,premium,384,768,high,low,6,namesilo,,,17/09/2026 10:31
 8a60d37a-0fb8-4a8d-8c80-e26e961a8b20,homoerotic.cyou,available,1.39,25.98,medium,low,10,namecheap,,,21/08/2026 12:51
 6fad8f0e-93bf-4de1-a550-f8decbd0c604,burn.cyou,premium,46.61,94.8,high,low,4,namesilo,,,28/09/2026 02:13
+d68bce07-b590-4901-b705-dad3e20e3848,bnp.cyou,premium,328.02,655.52,high,low,3,porkbun,,,01/10/2026 04:46
 720d444c-e042-44c5-bce3-458091e3701a,emergency.cyou,premium,74.75,149.5,high,low,9,namecheap,,,29/09/2026 18:03
 252975ec-117e-44fb-8e10-3d5d762f2b33,physics.cyou,premium,192,384,high,low,7,namesilo,,,25/09/2026 23:49
 f8f12983-3faf-4004-9b5e-28ced351b6e0,sri.cyou,premium,310.7,621.2,high,low,3,spaceship,,,30/09/2026 12:46
@@ -739,6 +776,7 @@ f8f12983-3faf-4004-9b5e-28ced351b6e0,sri.cyou,premium,310.7,621.2,high,low,3,spa
 31d89ecd-d2c0-40d1-ab78-fe42fb6a77a5,alison.cyou,premium,41.08,81.97,medium,low,6,spaceship,,,28/09/2026 04:29
 70f929a1-9505-4550-bc6e-2a789233f69d,showtime.cyou,premium,310.7,621.2,high,medium,8,spaceship,,,29/09/2026 18:25
 371b31ae-bb43-46b5-ae9c-fef4077b8a66,chilly.cyou,premium,384,768,high,low,6,namesilo,,,12/08/2026 05:30
+5a54df0c-7a35-4c6f-9eea-c3cc498e8944,rev.cyou,premium,310.7,621.2,high,medium,3,spaceship,,,01/10/2026 21:31
 e24faeee-c9c8-48b0-a7a0-20dc16f3b584,arrest.cyou,available,1.39,25.98,high,low,6,namecheap,,,20/08/2026 22:54
 8c241209-0afe-4af6-be78-53ad3e80dd76,dougherty.cyou,premium,41.08,81.97,medium,low,9,spaceship,,,28/09/2026 23:48
 882208e5-1e38-4a63-8483-1b5a4b1282e6,ablaze.cyou,premium,11.8,23.6,high,low,6,namesilo,,,
@@ -780,6 +818,7 @@ c849a216-83f9-4277-9800-b3f9f6dcccba,ppg.cyou,premium,390,780,high,low,3,nameche
 bf535a46-8c7f-42ef-8792-6427cc09ff45,wanton.cyou,available,1.39,25.98,medium,low,6,namecheap,,,25/08/2026 07:57
 5fe278b8-96b6-46f8-8d72-5221162e8dc9,deborah.cyou,premium,390,780,medium,low,7,namecheap,,,28/09/2026 12:59
 61583f58-d16b-48cc-a91b-39b9439db493,synaptic.cyou,available,1.39,25.98,high,low,8,namecheap,,,11/09/2026 06:09
+e1aac128-54c6-4bd1-afbb-e3737d88ff01,mitchel.cyou,premium,59.71,119.23,medium,low,7,spaceship,,,02/10/2026 00:53
 10db6b1a-aee9-46a0-a768-cd255ec1441d,steel.cyou,premium,384,768,high,low,5,namesilo,,,30/09/2026 05:36
 b81f89f1-04ce-42bd-8dbf-b66edd0f7789,soup.cyou,premium,384,768,high,low,4,namesilo,,,30/09/2026 11:33
 6f89f8c5-354c-443d-a548-4bb45fafaa6b,resilient.cyou,premium,68.43,147.2,high,low,9,namesilo,,,10/08/2026 21:47
@@ -802,7 +841,7 @@ d353a841-28a8-4b2e-8ab5-d96f0b55fc9c,wheeled.cyou,available,1.39,25.98,high,low,
 ada4b8ff-e2f5-47cd-985b-86ce460e0b7f,specimens.cyou,available,1.39,25.98,medium,low,9,namecheap,,,29/09/2026 16:57
 5b0dee7a-222a-41bc-a733-5460d892f90d,blabber.cyou,premium,46.61,94.8,medium,low,7,namesilo,,,23/09/2026 11:33
 3a23f6c2-f004-43e3-9b14-8d28ddd992a3,mice.cyou,premium,13,26,high,low,4,namecheap,,,28/09/2026 07:00
-27ead5a1-f6bf-43e4-aa3f-39103f3c1279,graphic.cyou,premium,59.71,119.23,high,low,7,spaceship,,,28/09/2026 05:58
+27ead5a1-f6bf-43e4-aa3f-39103f3c1279,graphic.cyou,premium,68.43,147.2,high,low,7,namesilo,,,01/10/2026 15:47
 96616a01-923e-4eab-817a-691e2f8fbee1,acknowledge.cyou,premium,74.75,149.5,high,low,11,namecheap,,,01/10/2026 00:33
 7e7f6383-8143-45d2-85be-5bc025ffd598,kettering.cyou,premium,46.61,94.8,medium,low,9,namesilo,,,29/09/2026 06:20
 09d742d1-a701-43ff-8fd5-94f87443bead,outdoorsy.cyou,available,1.39,25.98,high,low,9,namecheap,,,04/09/2026 19:14
@@ -811,6 +850,7 @@ dd12c5cc-649f-499a-8a3f-2ad6b5f01386,insulting.cyou,available,1.99,19.49,medium,
 430bf971-2dd2-42a3-86ee-bb2a1dcff97d,linked.cyou,premium,384,768,high,low,6,namesilo,,,25/09/2026 13:54
 2527630c-5849-45fc-88d2-6f9408ae0a52,lovesome.cyou,available,1.39,25.98,medium,low,8,namecheap,,,
 6227fa91-b2dd-429f-8bac-6cbf63ea5662,scanner.cyou,premium,63.3,126.07,high,low,7,porkbun,,,28/09/2026 18:57
+3231034f-df14-40ee-a528-cf902a971c3f,handgun.cyou,available,0.81,15.73,high,low,7,spaceship,,,01/10/2026 19:54
 3056b79d-0abe-4816-9348-fd7a98ae5d3d,stressful.cyou,available,1.39,25.98,medium,low,9,namecheap,,,03/09/2026 15:42
 2b21400b-8218-4614-a3e2-ab88a74972de,declare.cyou,premium,59.71,119.23,high,low,7,spaceship,,,27/09/2026 16:32
 9f9fbda3-42fd-4d21-ad95-013024634b1a,reaching.cyou,premium,68.43,147.2,high,low,8,namesilo,,,20/09/2026 09:16
@@ -834,7 +874,9 @@ bae0a486-74a1-4bf7-bbd2-848aed38c38d,romanic.cyou,available,1.39,25.98,high,medi
 46866e1b-f245-476e-b83e-9e9d66a46371,bored.cyou,premium,390,780,high,low,5,namecheap,,,23/09/2026 00:16
 83c56a4b-c4fb-4b7a-b7ee-6ff896afb3d9,malaria.cyou,available,1.99,19.49,high,low,7,namesilo,,,30/09/2026 03:44
 179f1a84-1024-4405-b03d-3c21f6d7ec5e,purau.cyou,available,1.99,19.49,medium,low,5,namesilo,,,21/09/2026 22:02
+29ac11c9-4702-4fa6-b619-7ebdce559306,liquids.cyou,available,1.39,25.98,medium,low,7,namecheap,,,01/10/2026 14:18
 2a7bd145-54cb-42b6-9364-8608bff9961e,neurons.cyou,premium,63.25,126.5,medium,low,7,dynadot,,,30/09/2026 06:54
+91914abb-b59c-43ac-9e7c-358c9b59674f,delilah.cyou,premium,74.75,149.5,high,low,7,namecheap,,,01/10/2026 19:14
 9b459ace-8ed7-46ec-bb41-bd7ca6eb72fd,winners.cyou,premium,384,768,high,high,7,namesilo,,,19/09/2026 23:22
 631d9aac-76b5-406d-986c-e7ddb77a9503,pushes.cyou,available,1.99,19.49,low,low,6,namesilo,,,29/09/2026 06:04
 ef29fb35-c819-48a3-800f-de3fa60a9307,roadman.cyou,available,1.39,25.98,medium,low,7,namecheap,,,21/09/2026 18:08
@@ -871,6 +913,7 @@ f4e90f7f-1484-45c6-a31a-ef0692285a09,plane.cyou,premium,390,780,high,low,5,namec
 9297ff96-b38d-4201-a9e8-f029401702d9,assouan.cyou,available,1.39,25.98,medium,low,7,namecheap,,,20/09/2026 16:37
 bae2a454-595c-467f-bade-3e8d2081c036,hanson.cyou,premium,390,780,high,low,6,namecheap,,,25/09/2026 13:05
 66302ea6-3991-4e9d-8674-401155e4ed73,golan.cyou,available,1.99,19.49,medium,low,5,namesilo,,,30/09/2026 01:46
+338ef4e6-837f-42e5-a01e-9b2fc3872de4,defeating.cyou,available,2.99,19.49,low,low,9,namesilo,,,01/10/2026 17:41
 46cedf80-027e-4a9c-a86e-e945dec3bacc,beatrix.cyou,available,0.81,15.73,high,low,7,spaceship,,,30/09/2026 21:15
 cea5554f-3952-4782-9746-f4c5395b0972,emboss.cyou,available,1.39,25.98,medium,low,6,namecheap,,,10/08/2026 20:42
 d9bc8661-a498-4b47-a365-1f9607dbd63a,kill.cyou,premium,390,780,high,low,4,namecheap,,,24/09/2026 11:57
@@ -915,7 +958,7 @@ f79b9100-2f11-40e1-831e-5b84a868a197,prescribed.cyou,available,1.39,25.98,medium
 06dd51ee-d8c6-4bc6-8205-a24ce77d36c1,bedroom.cyou,premium,390,780,high,low,7,namecheap,,,22/09/2026 23:08
 a013ce41-c6db-4844-ae35-195382b2c748,pouring.cyou,available,1.39,25.98,high,low,7,namecheap,,,20/08/2026 21:01
 d628f213-ee6b-4b7f-900f-586b7dfd014f,toured.cyou,available,1.99,19.49,medium,low,6,namesilo,,,20/09/2026 05:39
-84cc661b-35e7-4a58-b537-539e1075b1ed,soundbar.cyou,available,1.79,14.95,high,low,8,namesilo,,,
+84cc661b-35e7-4a58-b537-539e1075b1ed,soundbar.cyou,available,1.99,16.27,high,low,8,dynadot,,,02/10/2026 03:28
 c6409a88-c1f8-4bd9-ba69-8be7a75fdf98,flint.cyou,premium,384,768,high,low,5,namesilo,,,18/08/2026 08:20
 70b4280d-d57e-41d5-adf1-35a2c368c5ee,framing.cyou,available,1.99,19.49,high,low,7,namesilo,,,29/09/2026 01:00
 dac3051e-d62e-402d-9617-9ce1390a3749,icc.cyou,premium,384,768,high,low,3,namesilo,,,25/09/2026 07:43
@@ -923,6 +966,7 @@ dac3051e-d62e-402d-9617-9ce1390a3749,icc.cyou,premium,384,768,high,low,3,namesil
 d7b7aaef-0377-449f-9b45-06341bdd9895,noisome.cyou,available,1.39,25.98,medium,low,7,namecheap,,,18/08/2026 02:29
 30bebf5b-f228-44ef-910c-b4dfd5f62e08,clemens.cyou,premium,155.45,310.7,high,low,7,spaceship,,,27/09/2026 12:32
 aabeb0f9-84be-4ca8-8d9e-a5cf91f4ba4e,sneaker.cyou,premium,68.43,147.2,high,low,7,namesilo,,,11/08/2026 16:16
+89733330-c437-4a74-bf32-a560fc870e6c,scaring.cyou,available,0.81,15.73,low,low,7,spaceship,,,02/10/2026 03:46
 3abafe94-2434-4f42-a142-099a67a1528a,fashionable.cyou,available,0.81,15.73,high,low,11,spaceship,,,28/09/2026 15:41
 fcfd9c39-adf0-438d-a642-a591abfb0fd1,dudley.cyou,premium,310.7,621.2,medium,low,6,spaceship,,,28/09/2026 12:03
 03604811-57f7-4432-a144-a8a76f8d54b3,mastery.cyou,premium,63.3,126.07,high,low,7,porkbun,,,30/09/2026 10:33
@@ -955,47 +999,3 @@ f1b35ae2-c0c7-4872-8210-0a5daadf4e84,slenderize.cyou,available,1.39,25.98,medium
 97510bce-c944-47b9-8b7d-753013b96065,babu.cyou,premium,46.61,94.8,medium,low,4,namesilo,,,21/09/2026 12:51
 9c6be856-78eb-492b-b36f-85585bfa5da2,changeable.cyou,available,1.39,25.98,medium,low,10,namecheap,,,12/08/2026 01:51
 7e0a89e3-7120-45d5-8285-fdeac1e9875d,aldo.cyou,premium,310.7,621.2,high,low,4,spaceship,,,29/09/2026 04:10
-759fc3fa-88dd-4164-a09c-516e667fe657,scrutinise.cyou,available,1.99,19.49,high,low,10,namesilo,,,21/09/2026 03:07
-1f46e7a1-1e80-46f6-ac2a-3b3dd6e4bb08,conflicts.cyou,available,1.39,25.98,medium,low,9,namecheap,,,19/09/2026 21:22
-02ea65b4-17ed-4e56-98db-784435510207,hawke.cyou,premium,46.61,94.8,medium,low,5,namesilo,,,29/09/2026 15:41
-ad27f21b-a74e-4442-873d-54ab3edbe3f1,oxycontin.cyou,premium,384,768,medium,low,9,namesilo,,,20/09/2026 00:25
-e1909fd4-8503-40cb-96c6-13e14523b761,arsine.cyou,available,1.39,25.98,medium,low,6,namecheap,,,20/09/2026 09:42
-ecf9dce2-c9ab-4659-b998-c04796e1065e,iec.cyou,premium,155.45,310.7,medium,low,3,spaceship,,,28/09/2026 16:35
-db533d0d-fe6d-479a-a463-2f6c6b53d226,density.cyou,premium,59.71,119.23,high,low,7,spaceship,,,29/09/2026 11:57
-ded1233a-4ce6-44ed-99ec-2ef5ced06f7a,investigated.cyou,available,1.54,15.96,medium,low,12,porkbun,,,29/09/2026 00:03
-af142945-0eb1-462c-b88a-3afd0fa582b8,dsc.cyou,premium,68.43,147.2,high,low,3,namesilo,,,29/09/2026 21:44
-f75d752b-2228-422e-9d48-c0654ee6a921,actuarial.cyou,available,1.39,25.98,medium,low,9,namecheap,,,
-e97692d3-e2a2-4acc-ad66-a8da9a047b22,football.cyou,resell,,,high,medium,8,Dynadot Inc,30/11/2025 14:00,30/11/2026 23:59,29/09/2026 19:44
-e367ca6e-3db3-496f-9359-51cebbc8991b,leonard.cyou,premium,384,768,high,low,7,namesilo,,,25/09/2026 22:27
-23e9351a-0e91-4377-a366-06612ea6c12a,scold.cyou,premium,384,768,high,low,5,namesilo,,,24/09/2026 16:34
-17107591-7c4e-4793-b3f1-1b3f5b04ba28,josiah.cyou,premium,46.61,94.8,medium,low,6,namesilo,,,27/09/2026 01:34
-b66ed121-8daa-45db-a9b5-cb5f28bfccc8,cursory.cyou,available,1.39,25.98,medium,low,7,namecheap,,,13/08/2026 11:41
-46237d51-538b-4010-95da-e11abae5ebed,unsent.cyou,available,1.39,25.98,medium,low,6,namecheap,,,12/09/2026 19:18
-8134332f-d538-4831-b8e7-f195d5863fc1,anemometer.cyou,available,1.99,19.49,medium,low,10,namesilo,,,19/09/2026 05:15
-94bcf368-5469-432a-89ea-02d450d23cc0,brusk.cyou,available,1.39,25.98,medium,low,5,namecheap,,,11/08/2026 07:03
-a6fc76b6-6546-4064-a50e-62b742552027,bingo.cyou,premium,390,780,high,low,5,namecheap,,,22/09/2026 20:37
-e3752583-20f0-464d-9c3d-85bba7ad1f01,anson.cyou,premium,46.61,94.8,medium,low,5,namesilo,,,28/09/2026 07:57
-9bc5c95e-cd5c-4134-8747-944f95186062,hockey.cyou,premium,384,768,high,low,6,namesilo,,,25/09/2026 22:46
-275b66da-8f20-4f01-984c-8b40e10fd24c,beaches.cyou,premium,68.43,147.2,high,low,7,namesilo,,,20/09/2026 07:25
-904edbd2-c079-4159-8c39-dddaa93f73c4,exulting.cyou,available,1.39,25.98,high,low,8,namecheap,,,17/08/2026 19:44
-3a651e76-f6a4-4178-a8db-823b7c21bd43,auntie.cyou,available,1.39,25.98,high,low,6,namecheap,,,21/09/2026 04:11
-265f8ea9-20fa-4fa3-85f3-7792941ebb74,slide.cyou,premium,384,768,high,low,5,namesilo,,,30/09/2026 02:07
-c29f1275-2fb5-4ffc-954a-739f9a140c7a,intrastate.cyou,available,1.39,25.98,high,low,10,namecheap,,,22/08/2026 08:45
-5e929b4d-df53-472e-823e-922c56721bb1,acores.cyou,available,1.99,19.49,medium,low,6,namesilo,,,17/09/2026 02:16
-90ea7975-0d30-47f6-b231-68aefecf31df,chartless.cyou,available,1.39,25.98,medium,low,9,namecheap,,,12/08/2026 02:52
-282dac41-40ad-404a-b8fb-29a89d6372ac,alchemic.cyou,available,1.39,25.98,medium,low,8,namecheap,,,
-613524c7-e032-403f-a49b-87d88fc450f7,groping.cyou,available,1.39,25.98,medium,low,7,namecheap,,,20/08/2026 20:18
-858e2074-3b5e-4a65-a38c-7ba4d1e2c602,lighter.cyou,premium,68.43,147.2,high,low,7,namesilo,,,22/09/2026 05:44
-4fb26c88-720b-48a1-8ea9-e6052e134f19,fumes.cyou,available,1.99,19.49,high,low,5,namesilo,,,30/09/2026 01:34
-8eaa9cc8-5a6a-4acd-87cb-75edf3c52f59,pirate.cyou,premium,310.7,621.2,high,low,6,spaceship,,,29/09/2026 04:52
-8aefe8bf-2db9-4351-9cb2-b60476289a90,crocodile.cyou,premium,155.45,310.7,high,low,9,spaceship,,,29/09/2026 12:11
-6c273a13-cb6e-4816-9741-2f8b8d9824cc,amort.cyou,available,1.39,25.98,medium,low,5,namecheap,,,
-9d30194d-a0c7-446c-b406-90cacb48391a,brute.cyou,available,1.39,25.98,high,low,5,namecheap,,,
-67a5d09f-e585-4fa8-bb07-39d99597d221,convicts.cyou,available,1.99,19.49,medium,low,8,namesilo,,,30/09/2026 07:34
-e6678abd-c386-41f8-b32d-da7a88fafe7b,burns.cyou,premium,390,780,high,low,5,namecheap,,,25/09/2026 03:46
-4209dbb2-6964-4388-86f8-caa64f3c57d8,sagely.cyou,available,1.39,25.98,medium,low,6,namecheap,,,16/09/2026 00:31
-d757a8b8-78ec-4cf0-859f-688faaddfe07,makers.cyou,premium,390,780,high,medium,6,namecheap,,,19/09/2026 22:57
-117aec8b-f1a4-4aee-adce-daf282f50bc0,divorced.cyou,available,1.39,25.98,medium,low,8,namecheap,,,14/08/2026 14:01
-b9611324-6364-48ee-9aef-000db59c72c4,aron.cyou,premium,11.8,23.6,medium,low,4,namesilo,,,29/09/2026 15:32
-0ac52e9a-bb04-4e47-88a4-1a86ca83c4b0,jumbo.cyou,premium,384,768,high,low,5,namesilo,,,16/08/2026 03:34
-d169f318-59c7-49d5-90a6-a1a0ad29a7e6,faceted.cyou,available,1.39,25.98,medium,low,7,namecheap,,,17/08/2026 20:24
